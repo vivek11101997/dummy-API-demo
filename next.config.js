@@ -6,7 +6,6 @@ const nextConfig = {
   images: {
     domains: ['via.placeholder.com'], // Add any other domains you want to allow for images
   },
-  distDir: 'build',
 };
 
 module.exports = nextConfig;
